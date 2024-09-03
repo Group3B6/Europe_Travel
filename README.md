@@ -1,8 +1,8 @@
-# Europe-Travel-Website-html-css-js
-Create A Responsive Tour &amp; Travel Agency Website Design Using HTML / CSS / JS
-A Responsive Adventure & Tour Website Design Using HTML CSS  & JavaScript Step By Step
+# Europe Travel website + Docker + Google Cloud Run
 
+This project uses a Docker container with Nginx to serve a static website, being deployed on a Cloud Run instance on GCP.
 
-# HTML
-# CSS
-# JS
+The Docker container was created from the original repository containing the website and all dependencies: https://github.com/GNiruthian/Europe-Travel-Website-html-css-js
+
+ # URL to website
+ https://europe-travel-20842353702.us-central1.run.app/#home
